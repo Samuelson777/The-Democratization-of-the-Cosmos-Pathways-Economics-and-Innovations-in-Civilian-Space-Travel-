@@ -3,7 +3,7 @@
 **Author:** SAMUELSON G.
 
 [![DOI](https://img.shields.io/badge/DOI%20ResearchGate-10.13140/RG.2.2.24699.89126-blue)](https://doi.org/10.13140/RG.2.2.24699.89126)   
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]([https://opensource.org/licenses/MIT](https://github.com/Samuelson777/The-Democratization-of-the-Cosmos-Pathways-Economics-and-Innovations-in-Civilian-Space-Travel-/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/Samuelson777/The-Democratization-of-the-Cosmos-Pathways-Economics-and-Innovations-in-Civilian-Space-Travel-/blob/main/LICENSE)
 [![Tech Stack](https://img.shields.io/badge/Tech-HTML5%20|%20TailwindCSS%20|%20Chart.js-sky)](https://github.com/)
 
 ## 📄 Abstract
